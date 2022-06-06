@@ -1,1 +1,1 @@
-# Tindog-A-Dog-Magazine
+TinDog Starting Files
